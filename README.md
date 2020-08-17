@@ -30,6 +30,7 @@ npx react-native run-android
 ## Feito com
 
 * [React Native](https://reactnative.dev/) - Cli version
+* [Typescript](https://www.typescriptlang.org/) 
 
 ## Autor
 
