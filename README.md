@@ -36,4 +36,7 @@ npx react-native run-android
 * **Lucas Reghini Magalhães** - *Dev Frontend e Web designer* 
 
 ## Fotos
+![Tela 1 - Home](https://github.com/lucasReghiniM/Ecoleta-APP/blob/master/Tela%201%20-%20Home.PNG)
+![Tela 2 - Mapa](https://github.com/lucasReghiniM/Ecoleta-APP/blob/master/Tela%202%20-%20Mapa.PNG)
+![Tela 3 - Detalhes](https://github.com/lucasReghiniM/Ecoleta-APP/blob/master/Tela%203%20-%20detalhes.PNG)
 
